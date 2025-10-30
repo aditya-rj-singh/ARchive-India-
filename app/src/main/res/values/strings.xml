@@ -33,6 +33,6 @@
     <string name="about">About</string>
     <string name="sign_out">Sign Out</string>
 
-    <string name="google_maps_key">AIzaSyAjEHhjJn3eXDUOQEgtlXRGAljyd6xAYBA</string>
+    <string name="google_maps_key">#</string>
 
 </resources>
