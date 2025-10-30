@@ -1,4 +1,1 @@
-"# History_Culture" 
-"# Unity_integrated_ARandroid" 
-"# Unity_integrated_ARandroid" 
-"# Unity_integrated_ARandroid" 
+"unityLibrary" folder is not included because of the size limit.
